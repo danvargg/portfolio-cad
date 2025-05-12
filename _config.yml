@@ -1,0 +1,17 @@
+title: <p align="center"> Daniel Vargas </p>
+favicon: /assets/images/foto.jfif
+logo: /assets/images/foto.jfif
+logo_height: 100px
+logo_width: auto
+
+description:
+  <p align="center">
+  <a href="assets/dv-resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/danvargg/">LinkedIn</a> |
+ 
+  <br>  
+  I am an Industrial Engineer... 
+  <br>
+  </p>
+
+theme: jekyll-theme-minimal
