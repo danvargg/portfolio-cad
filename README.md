@@ -29,21 +29,21 @@ reduced from 111 to 57.
 
 - Silicone dip rig cap for medical device manufacturing.
 <p align="center">
-<img src="assets/images/sil-cap.png" width="65%">
+<img src="assets/images/sil-cap.PNG" width="65%">
 </p>
 
 ---
 
 - Gearbox cover.
 <p align="center">
-<img src="assets/images/grane-1.png" width="65%"> <img src="assets/images/grane-2.png" width="65%">
+<img src="assets/images/grane-1.PNG" width="65%"> <img src="assets/images/grane-2.PNG" width="65%">
 </p>
 
 ---
 
 - Spring expansion block for medical device manufacturing.
 <p align="center">
-<img src="assets/images/exp.png" width="65%"> <img src="assets/images/exp-exploded.png" width="65%">
+<img src="assets/images/exp.PNG" width="65%"> <img src="assets/images/exp-exploded.PNG" width="65%">
 </p>
 
 ---
